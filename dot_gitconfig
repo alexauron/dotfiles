@@ -1,0 +1,5 @@
+[user]
+	email = diazper@gmail.com
+	name = Alejandro Diaz
+[core]
+	autocrlf = true
